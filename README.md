@@ -1,5 +1,5 @@
 # Poste Digital - Iluminação Pública do Recife
-<img width="1907" height="803" alt="image" src="https://github.com/user-attachments/assets/7820decc-1114-4783-8208-7dc269db5d49" />
+<img width="1908" height="804" alt="Captura de tela 2025-09-23 195637" src="https://github.com/user-attachments/assets/507890c6-cacb-434f-9b5b-c8495696a9ee" />
 
 ---
 
