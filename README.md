@@ -2,6 +2,9 @@
 
 ![Imagem Trello](https://github.com/LuccaSpinelli/Poste-Digital---Ilumina-o-P-blica-do-Recife/blob/main/Captura%20de%20tela%202025-10-14%20213929.png?raw=true)
 
+---
+
+Projeto do Figma:
 https://www.youtube.com/watch?v=gTLUm2OD7DA
 
 ---
