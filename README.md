@@ -1,6 +1,6 @@
 # Poste Digital - Iluminação Pública do Recife
 
-Captura de tela 2025-10-14 213929.png
+![Imagem Trello](https://github.com/LuccaSpinelli/Poste-Digital---Ilumina-o-P-blica-do-Recife/blob/main/Captura%20de%20tela%202025-10-14%20213929.png?raw=true)
 
 https://www.youtube.com/watch?v=gTLUm2OD7DA
 
