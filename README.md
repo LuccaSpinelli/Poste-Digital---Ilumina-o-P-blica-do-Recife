@@ -3,9 +3,16 @@
 ![Imagem Trello](https://github.com/LuccaSpinelli/Poste-Digital---Ilumina-o-P-blica-do-Recife/blob/main/Captura%20de%20tela%202025-10-14%20213929.png?raw=true)
 
 ---
+### **LINKS:**
 
-Projeto do Figma:
+Video do Figma:
 https://www.youtube.com/watch?v=gTLUm2OD7DA
+
+Trello:
+https://trello.com/invite/b/68c05eedb02843727fe53615/ATTIb14e4bee237f0f0a183d7242dffdfcfe0D14AB30/mapa-interaivo-e-diagnostico-de-iluminacao
+
+Miro:
+https://miro.com/app/board/uXjVJDj4GSI=/?share_link_id=557740646806
 
 ---
 
