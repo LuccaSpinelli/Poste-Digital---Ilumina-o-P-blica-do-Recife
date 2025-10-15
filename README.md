@@ -5,6 +5,12 @@
 ---
 ### **LINKS:**
 
+Figma:
+https://www.figma.com/design/GaGRlx5gAfvP9BqKm2272x/Untitled?node-id=0-1&t=cD3psakWdj0APZJO-1
+
+Prototipo do Figma:
+https://www.figma.com/proto/GaGRlx5gAfvP9BqKm2272x/Untitled?node-id=0-1&t=cD3psakWdj0APZJO-1
+
 Video do Figma:
 https://www.youtube.com/watch?v=gTLUm2OD7DA
 
